@@ -20,8 +20,9 @@ repositories {
 And the dependency:
 
 ```java	
-implementation 'com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT'
+implementation 'com.github.HaarigerHarald:android-youtubeExtractor:XXXX'
 ```
+replace XXXX with the latest release number
 
 ## Usage
 
